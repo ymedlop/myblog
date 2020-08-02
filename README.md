@@ -1,5 +1,4 @@
-[![ymedlop banner](https://media-exp1.licdn.com/dms/image/C4E16AQFnSl1-kLQ9PQ/profile-displaybackgroundimage-shrink_200_800/0?e=1602115200&v=beta&t=YOX3D73c7G9saDmAh6F4lmsSCgQZbF7237S_mx4wAUw)]
-<h1 align="center">:speak_no_evil: I’m currently working on my <a href="https://github.com/ymedlop/k3s-paasmonkeys">Kubernetes RPi cluster.</a></h1>
+<h1 align="center">:see_no_evil: I’m currently working on my <a href="https://github.com/ymedlop/k3s-paasmonkeys">Kubernetes RPi cluster :speak_no_evil:.</a></h1>
 
 <!--
 **ymedlop/ymedlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

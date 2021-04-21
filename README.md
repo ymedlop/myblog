@@ -1,7 +1,7 @@
 <!--
 <h1 align="center">:see_no_evil: I’m currently working on my <a href="https://github.com/ymedlop/k3s-paasmonkeys">Kubernetes RPi cluster :speak_no_evil:</a>.</h1>
 -->
-<h1 align="center">:see_no_evil: Doing things with <a href="https://github.com/doing-things-with-node-red">Node-RED :speak_no_evil:</a>.</h1>
+<h1 align="center">:see_no_evil: Doing things with <a href="https://github.com/doing-things-with-node-red">Node-RED</a>:speak_no_evil:.</h1>
 
 <!--
 **ymedlop/ymedlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

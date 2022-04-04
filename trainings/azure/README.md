@@ -1,4 +1,5 @@
 # DevOps Path
+* https://acloudguru.com/learning-paths/azure-devops
 
 ## AZ-900: Azure Fundamentals
 Done

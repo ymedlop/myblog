@@ -9,6 +9,6 @@
 * https://www.udemy.com/course/ultimateaws/learn/lecture/14759976
 
 ## aws-developer-solution
-* https://www.udemy.com/course-dashboard-redirect/?course_id=393306
-* https://www.udemy.com/course-dashboard-redirect/?course_id=2770928
-* https://www.udemy.com/course-dashboard-redirect/?course_id=3483544
+* https://www.udemy.com/course/draft/393306
+* https://www.udemy.com/course/draft/2770928/
+* https://www.udemy.com/course/aws-certified-developer-associate-latest-practice-question

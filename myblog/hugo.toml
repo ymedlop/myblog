@@ -1,4 +1,4 @@
 baseURL = 'https://ymedlop.github.io/ymedlop/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'liva-hugo'
+theme = 'geeky-hugo'

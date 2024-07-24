@@ -1,3 +1,4 @@
+[![Deploy Hugo site to Pages](https://github.com/ymedlop/ymedlop/actions/workflows/hugo.yml/badge.svg)](https://github.com/ymedlop/ymedlop/actions/workflows/hugo.yml)
 <!--
 <h1 align="center">:see_no_evil: I’m currently working on my <a href="https://github.com/ymedlop/k3s-paasmonkeys">Kubernetes RPi cluster :speak_no_evil:</a>.</h1>
 -->

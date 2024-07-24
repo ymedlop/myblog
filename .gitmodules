@@ -1,0 +1,3 @@
+[submodule "myblog/themes/liva-hugo"]
+	path = myblog/themes/liva-hugo
+	url = https://github.com/gethugothemes/liva-hugo.git

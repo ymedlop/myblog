@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ymedlop.github.io/ymedlop/"
+baseURL = "https://ymedlop.github.io/myblog/"
 languageCode = "en-us"
 title = "Yeray Medina López | Dev blog"
 theme = "liva-hugo"
